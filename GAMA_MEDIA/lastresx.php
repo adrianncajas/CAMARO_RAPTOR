@@ -1,0 +1,1 @@
+<?php\n// Escribe tu código PHP aquí\n
